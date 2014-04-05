@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-typedef long long i64;
+//typedef long long i64;
 #define swap(a,b) {int temp = (a); (a) = (b); (b) = temp;}
 
 int Partition(int a[], int p, int r, int c[])
